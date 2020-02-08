@@ -55,7 +55,7 @@
 				}	
 			} else{
 				$error = "<div class = 'py-2 form-control bg-warning text-white'>
-				This email is not register. <a href='registration.php'>registretion</a>
+				This email is not registered. <a href='registration.php'>Register Here</a>
 			</div>";
 			}
 		} else{
@@ -177,7 +177,7 @@
 								<a class="p-3 bg-secondary rounded-circle" href="registration.php">If don't have an account?</a>
 							</div>
                             <br>
-                            <div class="container-login100-form-btn text-white" style="border-radius: 20px;">
+                            <div class="container-login100-form-btn text-black" style="border-radius: 20px;">
 								If you forgot your password please email us to 17ics057@gbu.ac.in OR  17ics055@gbu.ac.in with username.
 							</div>
 						</form>

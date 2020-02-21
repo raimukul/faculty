@@ -55,7 +55,7 @@
 				}	
 			} else{
 				$error = "<div class = 'py-2 form-control bg-warning text-white'>
-				This email is not registered. <a href='registration.php'>Register Here</a>
+				This email is not registered. <a href='registration.php'>registration</a>
 			</div>";
 			}
 		} else{
@@ -130,7 +130,7 @@
 			            <hr class="mx-auto" style="width: 90%; border-width: 3px;border-radius: 10%; border-color: #ff4500">
 			        </div>
                     <div class="py-2">
-                        <a class="btn py-1 bg-success text-white" href='http://mukulrai.in/view.php?view=home&id=10243654' >Before uploading data please see all the details about the form structure.</a>
+                        <a class="btn py-1 bg-success text-white" href='http://mukulrai.in/view.php?view=home&id=10243657' >How to fill faculty data ?</a>
                     </div> <br>
                     <div class="py-2">
                         <a class="btn btn-danger" href='view.php' >View Submissions</a>
@@ -177,7 +177,7 @@
 								<a class="p-3 bg-secondary rounded-circle" href="registration.php">If don't have an account?</a>
 							</div>
                             <br>
-                            <div class="container-login100-form-btn text-black" style="border-radius: 20px;">
+                            <div class="container-login100-form-btn text-white" style="border-radius: 20px;">
 								If you forgot your password please email us to 17ics057@gbu.ac.in OR  17ics055@gbu.ac.in with username.
 							</div>
 						</form>

@@ -4,10 +4,10 @@
 	 */
 	class Data_base_connection
 	{
-		private $dbHost     = "sql109.epizy.com";
-	    private $dbUsername = "epiz_25046263";
-	    private $dbPassword = "gKBF3VoDFt";
-	    private $dbName     = "epiz_25046263_tdata";
+		private $dbHost     = "localhost";
+	    private $dbUsername = "root";
+	    private $dbPassword = "mukul7264";
+	    private $dbName     = "tdata2";
 
 		function content(){
             // Connect to the database

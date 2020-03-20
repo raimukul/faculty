@@ -14,7 +14,6 @@
                             <div class="col-12 text-left head-title">
                                 <br>
                                <h4 class="text-capitalize"><?php echo $row['position']; ?></h4>
-                                <h6 class="text-capitalize"><?php echo $row['school']; ?></h6>
                                 <h6 class="text-capitalize"><?php echo $row['qualification']; ?></h6>
                                 <h6 class="text-capitalize"><?php echo $row['field_of_teaching']; ?></h6>
                                
